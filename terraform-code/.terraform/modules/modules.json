@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"elasticsearch-cluster","Source":"./elasticsearch-resource","Dir":"elasticsearch-resource"},{"Key":"kubernetes","Source":"./kubernetes-resources","Dir":"kubernetes-resources"},{"Key":"elasticsearch_cluster","Source":"./elasticsearch-resource","Dir":"elasticsearch-resource"}]}

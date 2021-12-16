@@ -1,0 +1,5 @@
+terraform-code/variables.tfvars
+terraform-code/terraform.tfstate.backup
+terraform-code/terraform.tfstate
+
+es-status-api/node_modules
